@@ -15,7 +15,7 @@
 		<dependency>
 		    <groupId>org.apache.poi</groupId>
 		    <artifactId>poi</artifactId>
-		    <version>3.7</version>
+		    <version>3.8</version>
 		</dependency>
 
 		<dependency>
@@ -35,12 +35,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexus</id>
-		    <url>http://13.233.125.37:8081/repository/maven-snapshots/</url>
+		    <url>http://http://35.154.124.148:8080/repository/maven-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexus</id>
-		    <url>http://13.233.125.37:8081/repository/maven-releases/</url>
+		    <url>http://http://35.154.124.148:8080/repository/maven-releases/</url>
 		</repository>
   	</distributionManagement>
 	
